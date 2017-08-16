@@ -1,3 +1,8 @@
+# I'm new to foundation since i normally use Bootstrap. I tried to learn foundation and do the test, may be this is not the correct way and i could not complete it. 
+
+Used Foundation/Compass/Sass template and modified it.
+
+
 # Foundation Compass Template
 
 The easiest way to get started with Foundation + Compass.
